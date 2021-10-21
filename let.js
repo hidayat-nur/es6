@@ -22,7 +22,7 @@ for (let e = 0; e < 5; e++) {
 }
 
 
-// TDZ (temporary deat zone)
+// TDZ (temporary dead zone)
 {
   let log = function () {
     console.log("d", message)
