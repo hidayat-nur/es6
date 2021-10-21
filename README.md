@@ -1,2 +1,2 @@
 # running
-> node let.js
+- node let.js
