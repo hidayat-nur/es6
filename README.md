@@ -1,4 +1,3 @@
 # running
-- node let.js
-- node let_x_var.js
-- node const.js
+- cd folderName
+- node index.js
